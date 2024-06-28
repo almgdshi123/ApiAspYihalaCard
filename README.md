@@ -16,6 +16,10 @@
 ### لوحة تحكم رياكت
 - تمكن المسؤولين من إدارة المتجر والتحكم في المحتوى والطلبات.
 - [رابط المشروع](https://github.com/almgdshi123/React-Yahala-Card-control-panel.git)
+- 
+## رابط الموقع لتحميل المتجر: 
+https://yahalacard.com/
+
 
 
 
